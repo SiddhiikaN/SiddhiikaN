@@ -17,9 +17,7 @@ Compares two versions of a JSON API response and flags what changed — added fi
 A Java desktop application for managing product stock with full CRUD operations. Built with a layered architecture.
 
 ## Organisation
-
-## Organisation
 [JavaLabs-IO](https://github.com/JavaLabs-IO) — a GitHub organization focused on Java tooling, backend experiments, and real-world system simulations.
 
 ## Current focus
-Focused on infrastructure patterns and distributed systems concepts in Java
+Focused on infrastructure patterns and distributed systems concepts in Java.
