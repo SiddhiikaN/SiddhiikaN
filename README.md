@@ -1,6 +1,6 @@
 # Hi, I'm Siddhika 👋
 
-Java developer focused on building practical applications and backend systems.
+I'm a Java developer who builds tools and systems — mostly backend, mostly things that make things work better.
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -11,20 +11,15 @@ Java developer focused on building practical applications and backend systems.
 ## Projects
 
 ### API Contract Verifier
-A Java-based tool to detect breaking changes between different versions of an API, helping maintain backward compatibility.
+Compares two versions of a JSON API response and flags what changed — added fields, removed fields, value changes, and type changes. Assigns a risk score (HIGH / MEDIUM / LOW / SAFE) based on the nature of the diff. Built to catch breaking changes before they reach consumers.
 
 ### Inventory Management System
-A Java application for managing products, stock, and basic operations with database integration.
+A Java desktop application for managing product stock with full CRUD operations. Built with a layered architecture.
 
-### Java Swing Games
-Desktop-based games built using Java Swing, showcasing event-driven programming and GUI development.
+## Organisation
 
-## What I'm Working On
-- Building Java-based applications to improve practical development skills  
-- Strengthening core concepts and problem-solving ability  
-- Focusing on writing clean and structured code  
+## Organisation
+[JavaLabs-IO](https://github.com/JavaLabs-IO) — a GitHub organization focused on Java tooling, backend experiments, and real-world system simulations.
 
-## Goals
-- Contribute to real-world software development projects  
-- Build applications that are practical, reliable, and well-structured  
-- Continuously improve through consistent learning and hands-on practice  
+## Current focus
+Focused on infrastructure patterns and distributed systems concepts in Java
