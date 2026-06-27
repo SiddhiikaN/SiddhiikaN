@@ -1,0 +1,16 @@
+<svg width="680" viewBox="0 0 680 100" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Tech stack</title>
+  <defs>
+    <clipPath id="scan-clip">
+      <rect x="0" y="0" width="0" height="100">
+        <animate attributeName="width" from="0" to="680" dur="2.2s" fill="freeze" begin="0.3s" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="22" fill="#888" opacity="0.18" letter-spacing="3">Java · Git · GitHub · MySQL</text>
+  <text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="22" fill="#222" letter-spacing="3" clip-path="url(#scan-clip)">Java · Git · GitHub · MySQL</text>
+  <line x1="0" y1="58" x2="0" y2="58" stroke="#888" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="x1" from="0" to="680" dur="2.2s" fill="freeze" begin="0.3s"/>
+    <animate attributeName="x2" from="0" to="680" dur="2.2s" fill="freeze" begin="0.3s"/>
+  </line>
+</svg>
