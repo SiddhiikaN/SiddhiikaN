@@ -5,7 +5,11 @@ I'm a Java developer who builds tools and systems mostly backend, mostly things 
 ---
 
 ### Tech Stack
-![](./typewriter.svg)
+### Tech Stack
+![Java](https://img.shields.io/badge/Java-696969?style=for-the-badge&logo=openjdk&logoColor=black)
+![Git](https://img.shields.io/badge/Git-696969?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-696969?style=for-the-badge&logo=github&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-696969?style=for-the-badge&logo=mysql&logoColor=black)
 
 ---
 
